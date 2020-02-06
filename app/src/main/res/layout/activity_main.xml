@@ -4,17 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-    <TextView
-        android:id="@+id/name"
+    tools:context=".MainActivityJ">
+    <EditText
+        android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:fontFamily="@font/comfortaa"
-        android:text="swapnil dey"
-        android:textAlignment="center"
-        android:textSize="50sp" />
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="15dp"
+        android:hint="enter your name"
+        android:layout_marginRight="15dp"/>
+    <Button
+        android:id="@+id/click"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="click"
+        android:layout_centerInParent="true" />
+
+
 
 
 </RelativeLayout>
