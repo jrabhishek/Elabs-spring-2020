@@ -1,4 +1,4 @@
 # Elabs-spring-2020
 this repo will contain  all the code of elbas spring semestel 2020
-## introduction To Kotline 
-#### ppt -[kdadjklasjckls](https://github.com/jrabhishek/Elabs-spring-2020/edit/master/README.md)
+## introduction To Kotlin 
+#### ppt -[ppt day 1](https://drive.google.com/file/d/1MYoZ9uXgFV-gVeujU3kKsZgsjQMhg3oN/view?usp=sharing)
